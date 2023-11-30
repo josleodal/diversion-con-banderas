@@ -7,4 +7,33 @@ body {
 
 h1 {
   color: #333;
+  text-align: center;
+}
+
+#countries-list{
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+justify-content: center;
+
+}
+
+#nombre{
+
+  display: flex;
+  flex-wrap: wrap;
+  width: 190px;
+  height: 80px;
+}
+
+img{
+
+  width: 190px;
+  height: 150px;
+}
+
+#datos{
+
+  display: none;
+  display: ju;
 }
